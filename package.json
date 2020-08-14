@@ -1,0 +1,29 @@
+{
+  "name": "nodevue",
+  "version": "0.0.0",
+  "description": "node.js and vue.js study project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yhcho0405/node-vue-study.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "yhcho0405",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yhcho0405/node-vue-study/issues"
+  },
+  "homepage": "https://github.com/yhcho0405/node-vue-study#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  }
+}
